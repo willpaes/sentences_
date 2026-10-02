@@ -5,6 +5,7 @@
 This project demonstrates the use of two very useful methods for manipulating strings in JavaScript:
 
 includes() → checks whether a string contains a specific sequence of characters.
+
 slice() → extracts a portion of a string.
 
 ## Learning Objective 🎯
