@@ -18,3 +18,32 @@ Extract parts of strings using `slice()`.
 Use positive and negative indices for text manipulation.
 
 💡 This project is ideal for beginners who are learning string manipulation in JavaScript.
+
+## How to Run (Prerequisites)
+
+To run the project, you must have Node.js installed.
+
+## Installation
+
+### Clone the repository:
+
+git clone 
+https://github.com/willpaes/sentences_
+
+### Navigate to the project folder:
+
+cd sentences_
+
+### Run the JavaScript file:
+
+node include_slice.js
+
+# Author
+
+Developed by Fabio William
+
+https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4       |       https://github.com/willpaes
+
+### License
+
+This project was developed for educational purposes.
