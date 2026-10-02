@@ -7,7 +7,7 @@ This project demonstrates the use of two very useful methods for manipulating st
 includes() → checks whether a string contains a specific sequence of characters.
 slice() → extracts a portion of a string.
 
-# Learning Objective 🎯
+## Learning Objective 🎯
 
 By the end of this example, you will be able to:
 
