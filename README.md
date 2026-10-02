@@ -1,9 +1,19 @@
-# sentences_ ✨
+# JavaScript Sentences Methods ✨
 
-##Description 📃
+## Description
 
-Here, we just testing methods and console's messages using JavaScript language.
+This project demonstrates the use of two very useful methods for manipulating strings in JavaScript:
 
-#Author 🧸
+includes() → checks whether a string contains a specific sequence of characters.
+slice() → extracts a portion of a string.
 
-Fabio William
+# Learning Objective 🎯
+
+By the end of this example, you will be able to:
+
+Check if a string contains specific text using `includes()`.
+Understand the method’s case sensitivity.
+Extract parts of strings using `slice()`.
+Use positive and negative indices for text manipulation.
+
+💡 This project is ideal for beginners who are learning string manipulation in JavaScript.
